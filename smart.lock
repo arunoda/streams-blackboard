@@ -1,0 +1,32 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "streams": {},
+      "cluster": {},
+      "router": {}
+    },
+    "packages": {
+      "streams": {
+        "git": "https://github.com/arunoda/meteor-streams.git",
+        "tag": "v0.1.9",
+        "commit": "5ac4b85cf7b11513546fb50673c844c7f3035cb1"
+      },
+      "cluster": {
+        "git": "https://github.com/arunoda/meteor-cluster.git",
+        "tag": "v0.1.6",
+        "commit": "74e5b017c2c1eea7bf02eae6a4f3dd6b9556b3be"
+      },
+      "router": {
+        "git": "https://github.com/tmeasday/meteor-router.git",
+        "tag": "v0.5.1",
+        "commit": "32e377c7703bb119acccc859fc7296882903cbe7"
+      },
+      "page-js-ie-support": {
+        "git": "https://github.com/tmeasday/meteor-page-js-ie-support.git",
+        "tag": "v1.3.5",
+        "commit": "b99ed8380aefd10b2afc8f18d9eed4dd0d8ea9cb"
+      }
+    }
+  }
+}

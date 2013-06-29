@@ -1,0 +1,51 @@
+body {
+	margin: 0;
+	overflow: hidden;
+}
+
+#header {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  color: rgb(220, 220, 220);
+  border-bottom: 1px solid rgb(100, 100, 100);
+  padding: 15px 5px 5px 10px;
+  width: 100%;
+}
+
+#header #heading {
+  float: left;
+  width: 300px;
+}
+
+#header #controls {
+  float: right;
+  width: 600px;
+  text-align: right;
+  padding-right: 20px;
+}
+
+#header #heading h1 {
+  font-size: 28px;
+  line-height: 25px;
+  margin: 0px 0px 8px 0px;
+  float: left;
+}
+
+#header #heading  h2 {
+  margin-bottom: 10px;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: normal;
+}
+
+.nickname {
+  position: absolute;
+  font-family: 'Arial';
+  padding: 1px 4px 1px 4px;
+  font-size: 13px;
+  border-radius: 3px;
+  border: 2px solid rgb(100, 100, 100);
+  color: white;
+  background-color: black;
+}

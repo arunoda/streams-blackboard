@@ -1,0 +1,20 @@
+<template name='pad'>
+  <canvas></canvas>
+  <div id='header'>
+    <div id='heading'>
+      <h1>Realtime Blackboard</h1>
+      <h2>With Meteor Streams</h2>
+    </div>
+    <div id='controls'>
+      <span id='show-nickname'>Hello, <b>arunoda</b></span>
+       <input class='btn btn-info btn-small' type="button" id='set-nickname' value='Change Nickname'/>
+       <input class='btn btn-info btn-small' type="button" id='wipe' value='Clear Backboard'/>
+       <input class='btn btn-success btn-small' type="button" id='create-new' value='Create New'/>
+    </div>
+  </div>
+  <script id='tmpl-nickname'  type="text/html">
+    <span class='nickname'>
+      nickname
+    </span>
+  </script>
+</template>
