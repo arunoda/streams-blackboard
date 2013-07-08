@@ -5,4 +5,6 @@ Realtime Blackboard with [Meteor Streams](http://meteorhacks.com/introducing-met
 
 Live App: <http://blackboard.meteorhacks.com/vutLGkeJuGEzsJa2f>
 
-[![Stream Blackboard Live App](https://dl.dropboxusercontent.com/u/6826117/stream-blackboard-demo.png)](http://blackboard.meteorhacks.com/vutLGkeJuGEzsJa2f)
+### Learn How to create this app - Click below to get your free copy
+
+[![Stream Blackboard Live App](http://i.imgur.com/uzKa2CM.png)](http://meteorhacks.com/realtime-blackboard.html)
