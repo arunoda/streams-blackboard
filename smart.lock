@@ -9,8 +9,8 @@
     "packages": {
       "streams": {
         "git": "https://github.com/arunoda/meteor-streams.git",
-        "tag": "v0.1.9",
-        "commit": "5ac4b85cf7b11513546fb50673c844c7f3035cb1"
+        "tag": "v0.1.12",
+        "commit": "d587ad9f5babbc267f026f41362f235809c931fc"
       },
       "cluster": {
         "git": "https://github.com/arunoda/meteor-cluster.git",
